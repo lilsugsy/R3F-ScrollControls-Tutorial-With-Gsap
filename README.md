@@ -1,4 +1,4 @@
-![React Three Fiber ScrollControls GSAP Tutorial](https://raw.githubusercontent.com/lilsugsy/R3F-Tutorial---Robot-Project/main/r3f-thumb.jpg)[(Youtube)](https://www.youtube.com/watch?v=52sTNIJs78A)
+![React Three Fiber ScrollControls GSAP Tutorial](https://raw.githubusercontent.com/lilsugsy/R3F-Tutorial---Robot-Project/main/r3f-thumb.jpg)[(React Three Fiber ScrollControls with Gsap tutorial)](https://www.youtube.com/watch?v=52sTNIJs78A)
 
 # React Three Fiber/Three.js Tutorial for Beginners | Awwwards Style Website | Gsap, ScrollControls
 
