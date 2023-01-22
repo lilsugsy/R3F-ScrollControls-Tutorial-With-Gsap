@@ -4,7 +4,7 @@
 
 This is repositry contains the files that we created in my youtube tutorial here: https://www.youtube.com/watch?v=52sTNIJs78A
 
-## Getting Started with Create React App
+## Getting Started with this project
 - Download the repository, 
 - Unzip it, 
 - Rename the folder to be what you want your project to be called
