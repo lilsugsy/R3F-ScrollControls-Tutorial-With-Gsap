@@ -6,9 +6,17 @@ This is repositry contains the files that we created in my youtube tutorial here
 
 ## Getting Started with Create React App
 - Download the repository, 
-- unzip it, 
-- rename the folder to be what you want your project to be called
-- open the folder in your VS Code
+- Unzip it, 
+- Rename the folder to be what you want your project to be called
+- Open the folder in your VS Code
 - Open a new integrated terminal within the folder
-- run 'npm i' to install the node modules
-- run npm start once the modules have installed
+- Run 'npm i' to install the node modules
+- Run npm start once the modules have installed
+
+## Notes
+This is a basic project to get you up and running. Here are some suggestions on how you can improve:
+- Add custom fonts
+- Make responsive
+- Add better shadows (play around with lighting and element positions, what can cast/receive shadows etc...)
+- Make the canvas background change colour on scroll
+- Make multi page using Routers (play with animating things in and out)
